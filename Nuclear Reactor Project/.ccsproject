@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="11.0.0"/>
+	<deviceVariant value="Cortex M.CC3220SF"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_6.3.1:Energia"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<origin value="C:\ti\energia_cc3220emt_5.6.2\libraries\WiFiMKII\examples\WiFiChatServer\WiFiChatServer.ino"/>
+	<filesToOpen value="WiFiChatServer.ino"/>
+	<isTargetManual value="false"/>
+</projectOptions>
